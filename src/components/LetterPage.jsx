@@ -131,7 +131,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.5 }}
             className="text-xl text-purple-200 leading-relaxed"
           >
-            You're so beautiful, but I still hurt you… I'm so sorry.💔
+            A Small Sorry From My Heart💔,I’m sorry for everything...❤️‍🩹
           </motion.p>
 
           <motion.p
@@ -140,7 +140,8 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.8 }}
             className="text-lg text-pink-200 leading-relaxed max-w-lg mx-auto"
           >
-            I know words can't undo what I did, but I need you to know that you mean everything to me. I've been thinking about all our beautiful moments together, and I realize how much I've hurt the most precious person in my life. I promise to do better, to be better, for you.✨
+            I’m really sorry agar meri kisi baat ,mazaak ya silence ka ya action se aapko koi hurt hua ho. Mera intention kabhi bhi aapko bura feel karwana nahi tha. Shayad main apni feelings ya words sahi tarah se express nahi kar paaya, isliye misunderstanding ho gayi. Aap meri life mein special ho, aur aap mere liye bahut important hai. Bas itna chahta hoon ki aap mujhe ek chance do, taaki main sab theek kar saku.Maine aapse promise kiya tha ki mai aapka sath kabhi nhi chorunga hamesha sath rahenge or mai apna promise nhi bhulunga. Please mujhe maaf kar do, main bas wahi purana bond wapas chahta hoon jisme hum dono sath the. Kiya aap dubara pehle jaise ho sakte hai....
+            I promise to do better, to be better, for you.✨
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 10 }}
