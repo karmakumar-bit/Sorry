@@ -104,7 +104,7 @@ export default function HugPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 1.1 }}
           className="text-xl text-purple-200 leading-relaxed"
         >
-          Just your arms around me, that’s all I want.💕
+          Holding your hand, healing my heart, that’s all I want.💕
         </motion.p>
       </motion.div>
 
