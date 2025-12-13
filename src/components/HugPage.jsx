@@ -96,7 +96,7 @@ export default function HugPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 0.8 }}
           className="text-2xl text-pink-200 leading-relaxed"
         >
-          I don’t need anything fancy right now…
+          I don't need anything but I need you😼❤️…
         </motion.p>
         <motion.p
           initial={{ opacity: 0, y: 15 }}
